@@ -1,0 +1,10 @@
+{
+	"title": "好多照片啊凑合着看吧",
+	"description": "日常合集",
+	"date": "2026-11-11",
+	"location": "广州",
+	"tags": ["风景", "日常"],
+	"layout": "masonry",
+	"columns": 3,
+	"hidden": false
+}
